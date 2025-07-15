@@ -26,8 +26,8 @@ plainwhite:
   navigation:
 #    - title: POSTS
 #      url: "/Post"
-    - title: CV
-      url: "http://tyoxa.online"
+##    - title: CV
+##      url: "http://tyoxa.online"
   
   # generate social links in footer
   social_links:
