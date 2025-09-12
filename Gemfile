@@ -3,3 +3,7 @@
 source "https://rubygems.org"
 gemspec
 
+gem "jekyll"
+gem "logger"
+gem "bigdecimal"
+
