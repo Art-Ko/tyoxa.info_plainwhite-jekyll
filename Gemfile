@@ -6,4 +6,4 @@ gemspec
 gem "jekyll"
 gem "logger"
 gem "bigdecimal"
-
+gem "jekyll-feed"
