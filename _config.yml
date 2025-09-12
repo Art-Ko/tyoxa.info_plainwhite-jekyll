@@ -36,7 +36,7 @@ plainwhite:
     website: tyoxa.online         #do not add http://
 #   linkedin: artem-k-5b483a115
 #   github: sharu725
-    telegram: tyoxa
+#   telegram: tyoxa
 #   rss: rss
     # dribbble: jekyll
     # flickr:   jekyll
@@ -64,7 +64,7 @@ theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
-#  - jekyll-feed
+  - jekyll-feed
 
 ## ---------------------------------------
 remote_theme: samarsault/plainwhite-jekyll
